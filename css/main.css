@@ -74,7 +74,7 @@ body {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: #444444;
 }
 
 /**
@@ -944,8 +944,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin: 6rem 0 3rem;
 }
 .skill-bars li {
-	height: .6rem;
-	background: #a1a1a1;
+	height: .2rem;
+	background: #2200ff;
 	width: 100%;
 	margin-bottom: 6rem;
 	padding: 0;
@@ -2268,7 +2268,7 @@ header .top-bar {
 
 #contact form {
 	margin-top: 0;
-	margin-bottom: 3rem;
+	margin-bottom: 30rem;
 }
 #contact form .form-field {
 	position: relative;
@@ -2478,7 +2478,7 @@ footer {
 	background: #151515;
 }
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: #444444;
 }
 footer a:hover, footer a:focus {
 	color: #2200ff;
